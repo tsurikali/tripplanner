@@ -1,7 +1,0 @@
-cd server
-npm run dev
-
-cd client
-npm start
-
-e892cc8b-d3f4-473c-8c96-e081680658fb
